@@ -4,6 +4,7 @@ Estudo sobre treinamento de máquina com quiosque gerado a partir de modelagem g
 
 
 
+
 ## Ativiação do ambitente para treinamento ML
 
 ```
